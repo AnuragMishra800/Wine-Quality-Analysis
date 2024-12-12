@@ -63,21 +63,10 @@ Below is the heatmap that reveals the relationships between variables and qualit
 
 ---
 
-## How to Run the Code 🖥️
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/YourGitHubProfile/wine-quality-analysis.git
-   ```
-2. Open the Jupyter Notebook or Python script.
-3. Install required libraries:  
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
 4. Run the code and explore the analysis!
 
 ---
 
 ## Links 🔗
 - **Google Colab Notebook**: [https://colab.research.google.com/drive/1PEXmc-SK9yRo5CHOXC1GAENqs_MwtTdb#scrollTo=nGii_b_K0EEq)
-- 
 - **LinkedIn**: [Anurag Mishra](https://www.linkedin.com/in/anurag-mishra-b17051288/) 
